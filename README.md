@@ -2,13 +2,14 @@
 Python program that uses bisection search to determine the monthly savings rate needed to reach a target down payment within a specified time period.
 
 ### Overview
-Program takes the user's following information to find an appropriate savings rate
+Program takes the user's following information to find an appropriate savings rate:
 - Salary
 - Semi-annual raise
 - Annual return on savings
 - Target timeline
 - Home price
 - Required down payment
+
 Notifies user if the down payment is not achievable within the given timeframe. Reports recommended savings rate and number of bisection searches performed if otherwise.
 
 ### Techniques
